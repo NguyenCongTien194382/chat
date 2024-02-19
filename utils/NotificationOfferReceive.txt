@@ -1,0 +1,2 @@
+2023-08-02T03:06:43.016Z  {"SenderId":"30571","ListReceive":"[558461]","CompanyId":"3312","Message":"Test Đề Xuất","ListFollower":"[15097]","Status":"xin nghỉ phép","Link":"https://vanthu.timviec365.vn/chi-tiet-dx/test-de-xuat-dx18871.html"}
+2023-08-02T03:18:26.880Z  {"SenderId":"30571","ListReceive":"[558461]","CompanyId":"3312","Message":"Test Đề Xuất","ListFollower":"[5744]","Status":"xin nghỉ phép","Link":"https://vanthu.timviec365.vn/chi-tiet-dx/test-de-xuat-dx18872.html"}
